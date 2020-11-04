@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+body{
+    background-color: rgb(38, 42, 41);
+}
+#img{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 10px;
+    left: 80px;
+}
+table tr td{
+    height: 80px;
+    position: relative;
+}
+
+table{
+    position: relative;
+    left: 390px;
+    top: 100px;
+}
+
+#stopwatch{
+    font-size: 35pt;
+    margin-left: 90px;
+    color: whitesmoke;
+}
+
+#row2{
+    font-size: 140px;
+}
+
+button{
+    color: whitesmoke;
+    background: transparent;
+    border: 1px solid whitesmoke;
+    padding: 8px 13px 8px 13px;
+    border-radius: 50px;
+    width: 150px;
+    font-size: 15pt;
+    position: relative;
+    left: 110px;
+    outline: none;
+}
+
+#reset{
+    position: relative;
+    left: 135px;
+}
